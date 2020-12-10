@@ -39,4 +39,4 @@ If you encounter any problems or bugs, please open an issue on [GitHub](https://
 
 Need help setting up or want to customize this extension to meet your business needs? Please email support@magetop.com and if we like your idea we will add this feature for free or at a discounted rate.
 
-© Magetop eCommerce - Magento Extensions Store | [https://www.magetop.com/](https://www.magetop.com/)
+© Magetop eCommerce - Magento Extensions Store | [https://www.magetop.com](https://www.magetop.com)
